@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && mkdir -p dist/src/db && cp src/db/*.json dist/src/db/",
     "start": "node dist/index.js",
     "dev": "tsx watch index.ts",
     "playground": "tsx src/playground.ts",
