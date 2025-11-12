@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+    "title": "Patient Consultation CAR0001",
+    "patientId": "PAT-QCQWIHWG",
+    "doctorId": "DOC-DQDJUKBX",
+    "createdAt": "2025-10-14T11:08:13.186Z",
+    "updatedAt": "2025-10-14T13:42:25.822Z"
+  },
+  {
+    "id": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+    "title": "Patient Consultation CAR0002",
+    "patientId": "PAT-W373VM6N",
+    "doctorId": "DOC-VLDVOK5C",
+    "createdAt": "2025-10-16T05:22:38.437Z",
+    "updatedAt": "2025-10-16T06:58:20.093Z"
+  }
+]

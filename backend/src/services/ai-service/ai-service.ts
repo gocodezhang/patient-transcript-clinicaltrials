@@ -10,9 +10,8 @@ export class AIService {
     const response = await this.aiClient
       .setSystemPrompt(TRANSCRIPT_ANALYZE_PROMPT)
       .setOutPutFormat(AnalyzeTranscriptSchema)
+      .setTools([{ type: "web_search" }])
       .createModelResponse(transcript);
-
-    console.log(response.output_text);
 
     return AnalyzeTranscriptSchema.parse(JSON.parse(response.output_text));
   }

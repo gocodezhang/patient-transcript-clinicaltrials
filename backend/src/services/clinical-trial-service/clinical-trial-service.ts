@@ -6,6 +6,7 @@ import {
   buildSearchExpressionFromSearchObject,
   DefaultOperator,
 } from "./utils";
+import logger from "../../utils/logger";
 
 /**
  * ClinicalTrialService - Service for searching clinical trials from ClinicalTrials.gov API v2
@@ -271,10 +272,10 @@ export class ClinicalTrialService {
       pageSize: number;
       sort: "@relevance";
     } = { includeTotal: true, pageSize: 5, sort: "@relevance" }
-  ): Promise<ClinicalTrialApiResponse> {
+  ): Promise<ClinicalTrialSearchResponse> {
     try {
       const { conditions, treatments, outcomeMeasures, patient } = params;
-      return this.axios
+      const response = await this.axios
         .get<ClinicalTrialApiResponse>("/studies", {
           params: {
             "query.cond": buildSearchExpressionFromSearchObject(conditions),
@@ -291,9 +292,10 @@ export class ClinicalTrialService {
           },
         })
         .then(({ data, config }) => {
-          console.log(this.axios.getUri(config));
+          logger.info("clinical trial url", { url: this.axios.getUri(config) });
           return data;
         });
+      return this.transformResponse(response);
     } catch (error) {
       if (error instanceof Error) {
         throw new Error(`Failed to search clinical trials: ${error.message}`);

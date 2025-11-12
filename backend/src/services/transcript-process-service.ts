@@ -1,9 +1,18 @@
-import { CarePlan, CodeableConcept, Condition, Patient } from "../schemas";
+import {
+  CarePlan,
+  CodeableConcept,
+  Condition,
+  Goal,
+  Patient,
+} from "../schemas";
 import { AIService } from "./ai-service/ai-service";
 import { ClinicalTrialService } from "./clinical-trial-service/clinical-trial-service";
 import { DefaultOperator } from "./clinical-trial-service/utils";
 import { TranscriptService } from "./transcript-service";
 import { output } from "./ai-service/constant";
+import { Message } from "../db";
+import logger from "../utils/logger";
+import { MedicationRequest } from "../schemas/medication-request.schema";
 
 export class TranscriptProcessService {
   constructor(
@@ -11,37 +20,45 @@ export class TranscriptProcessService {
     private readonly aiService: AIService,
     private readonly clinicalTrialService: ClinicalTrialService
   ) {}
-  async processTranscript(_id: string) {
-    const input = this.transcriptService.getTranscript(_id);
-    const analyzed = await this.aiService.analyzeTranscript(input);
+  async processTranscript(id: string) {
+    const messages = this.transcriptService.getMessagesById(id);
+    const analyzed = await this.aiService.analyzeTranscript(
+      this.translateMessagesToString(messages)
+    );
+    logger.info("analyze result:", analyzed);
     const { conditions, patient, carePlans } = analyzed;
 
-    this.searchRelevantTrials(patient, conditions, carePlans);
-    // to do: save analyzed result to database
+    const goals = carePlans.flatMap((cp) => cp.goal || []);
+    const medications = carePlans.flatMap((cp) => cp.medication || []);
+
+    const results = await Promise.all([
+      this.searchRelevantTrials(conditions, patient, goals, medications),
+      this.searchRelevantTrials(conditions, patient, undefined, medications),
+      this.searchRelevantTrials(conditions, patient, goals, undefined),
+      this.searchRelevantTrials(conditions, patient),
+    ]);
+
+    return results.find((r) => r.totalCount! > 0);
   }
 
   async searchRelevantTrials(
-    patient: Patient,
     conditions: Condition[],
-    carePlans: CarePlan[]
+    patient: Patient,
+    goals?: Goal[],
+    medications?: MedicationRequest[]
   ) {
     const conditionTerms = conditions.flatMap((condition) => {
       return this.processCodeableConcept(condition.code);
     });
-    const measureTerms = carePlans.flatMap(
-      (cp) =>
-        cp.goal?.flatMap(
-          (g) =>
-            g.target?.flatMap((t) => this.processCodeableConcept(t.measure)) ||
-            []
-        ) || []
-    );
-    const treatmentTerms = carePlans.flatMap(
-      (cp) =>
-        cp.medication?.flatMap((m) =>
-          this.processCodeableConcept(m.medication)
-        ) || []
-    );
+    const measureTerms =
+      goals?.flatMap(
+        (g) =>
+          g.target?.flatMap((t) => this.processCodeableConcept(t.measure)) || []
+      ) || [];
+
+    const treatmentTerms =
+      medications?.flatMap((m) => this.processCodeableConcept(m.medication)) ||
+      [];
 
     return this.clinicalTrialService.searchTrials({
       patient: {
@@ -72,6 +89,15 @@ export class TranscriptProcessService {
         excludes: [],
       },
     });
+  }
+
+  translateMessagesToString(messages: Message[]) {
+    const lines = messages.map((m) => {
+      const prefix = m.role === "doctor" ? "D:" : "P:";
+      return `${prefix} ${m.body}`;
+    });
+
+    return lines.join("\n");
   }
 
   private processCodeableConcept(

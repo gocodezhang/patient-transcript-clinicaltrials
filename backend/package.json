@@ -7,6 +7,8 @@
     "build": "tsc",
     "start": "node dist/server.js",
     "dev": "tsx watch server.ts",
+    "playground": "tsx src/playground.ts",
+    "parse-mock": "tsx src/db/parse-mock-data.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,12 +16,14 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@faker-js/faker": "^10.1.0",
     "axios": "^1.13.2",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "lodash": "^4.17.21",
     "openai": "^6.8.1",
+    "winston": "^3.18.3",
     "zod": "^4.1.12"
   },
   "devDependencies": {
@@ -27,6 +31,7 @@
     "@types/express": "^5.0.5",
     "@types/lodash": "^4.17.20",
     "@types/node": "^24.10.0",
+    "@types/winston": "^2.4.4",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   }

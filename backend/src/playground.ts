@@ -1,3 +1,4 @@
+import { dataSource } from "./db";
 import { OpenAiClient } from "./services/ai-service/ai-client";
 import { AIService } from "./services/ai-service/ai-service";
 import { ClinicalTrialService } from "./services/clinical-trial-service/clinical-trial-service";
@@ -13,7 +14,10 @@ const transcriptProcessService = new TranscriptProcessService(
 );
 
 async function run() {
-  const result = await transcriptProcessService.processTranscript("foo");
+  dataSource.initialize();
+  const result = await transcriptProcessService.processTranscript(
+    "3e943dd5-5a59-47b1-96d6-58ca23eefa78"
+  );
   console.log(result);
 }
 
