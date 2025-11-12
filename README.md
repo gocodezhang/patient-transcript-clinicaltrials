@@ -15,7 +15,7 @@ I started by understanding what information can be used to refine the search que
 2. Referring to FHIR, I created five FHIR-like entities to categorize the information available in transcripts (see schemas in [code](./backend/src/schemas/index.ts)).
 3. Created and refined an [LLM prompt](./backend/src/services/ai-service/system-prompt.ts) with the objective to extract information based on the above five entities (with schema validation enforced).
 4. Search clinical trials using patient age & gender, multiple conditions (`query.cond`), measures (`query.outc`), and medications (`query.intr`) with `Essie expression syntax`.
-   - There is also a relatively simple retry/backoff strategy to relax the search query when no trials match.
+   - There is also a relatively simple retry/backoff strategy to relax the search query when no trials match (see [here](./backend/src/services/transcript-process-service.ts)).
 
 ## Working Demo
 
