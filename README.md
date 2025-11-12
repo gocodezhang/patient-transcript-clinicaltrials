@@ -7,89 +7,33 @@ A full-stack application for managing patient transcripts in clinical trials.
 - **Frontend**: React + Vite + TypeScript
 - **Backend**: Express + Node.js + TypeScript
 
+## Approach to Finding Relevant Clinical Trials
+
+I started by understanding what information can be used to refine the search query on the Clinical Trials API and worked backward from there.
+
+1. Given a transcript and the available query parameters in the Clinical Trials API, I identified four areas of information that can be used to refine the clinical trials search: Patient demographics, Patient condition, Medications, Measures, and Care plan.
+2. Referring to FHIR, I created five FHIR-like entities to categorize the information available in transcripts (see schemas in [code](./backend/src/schemas/index.ts)).
+3. Created and refined an [LLM prompt](./backend/src/services/ai-service/system-prompt.ts) with the objective to extract information based on the above five entities (with schema validation enforced).
+4. Search clinical trials using patient age & gender, multiple conditions (`query.cond`), measures (`query.outc`), and medications (`query.intr`) with `Essie expression syntax`.
+   - There is also a relatively simple retry/backoff strategy to relax the search query when no trials match.
+
+## Working Demo
+
+There are a few pre-loaded raw transcripts from Kaggle (dataset platform). When you click "FIND CLINICAL TRIALS", you can test finding relevant clinical trials live!
+
+**Live Demo**: https://patient-transcript-clinicaltrials.vercel.app/
+
 ## Development Setup
-
-### Prerequisites
-
-- Node.js (v18 or higher recommended)
-- npm (comes with Node.js)
 
 ### Backend Setup
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Create a `.env` file (optional, defaults to PORT=3001):
-   ```bash
-   PORT=3001
-   ```
-
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-   The server will run on `http://localhost:3001` with hot-reload enabled
-
-5. Build for production (optional):
-   ```bash
-   npm run build
-   ```
+See [backend/README.md](./backend/README.md).
 
 ### Frontend Setup
 
-1. Navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
+See [frontend/README.md](./frontend/README.md).
 
-2. Install dependencies (if not already installed):
-   ```bash
-   npm install
-   ```
+## Key Assumptions
 
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-   The frontend will run on `http://localhost:5173` (default Vite port)
-
-## Project Structure
-
-```
-patient-transcript-clinicaltrials/
-├── backend/
-│   ├── server.ts          # Express server entry point (TypeScript)
-│   ├── tsconfig.json       # TypeScript configuration
-│   ├── package.json        # Backend dependencies
-│   ├── dist/              # Compiled JavaScript (generated)
-│   └── .gitignore
-├── frontend/
-│   ├── src/               # React source files (TypeScript)
-│   ├── public/            # Static assets
-│   ├── package.json       # Frontend dependencies
-│   ├── tsconfig.json      # TypeScript configuration
-│   ├── tsconfig.node.json # TypeScript config for Node tools
-│   └── vite.config.ts     # Vite configuration (TypeScript)
-└── README.md
-```
-
-## Available Scripts
-
-### Backend
-- `npm run dev` - Start the development server with hot-reload (using tsx)
-- `npm run build` - Compile TypeScript to JavaScript
-- `npm start` - Start the production server (runs compiled code from dist/)
-
-### Frontend
-- `npm run dev` - Start the Vite development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
+- Transcript processing and matching clinical trials is a synchronous action for demo purposes. In production, some or all processing can happen asynchronously and be saved in a database.
+- We assume that Search Areas with pre-defined weights on the Clinical Trials API provide effective results (e.g., `query.cond`). However, we could further understand `Essie expression syntax` and enhance the search query.

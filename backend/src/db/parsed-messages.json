@@ -1,1441 +1,3281 @@
 {
-  "2f0655a9-620a-4684-a27d-f24ffad30c94": [
+  "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4": [
     {
       "id": 1,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "What brought you in today?",
-      "timestamp": "2025-10-14T11:08:17.059Z"
+      "timestamp": "2025-11-06T22:53:42.316Z"
     },
     {
       "id": 2,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Sure, I'm I'm just having a lot of chest pain and and so I thought I should get it checked out.",
-      "timestamp": "2025-10-14T11:09:11.708Z"
+      "timestamp": "2025-11-06T22:55:36.182Z"
     },
     {
       "id": 3,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, before we start, could you remind me of your gender and age?",
-      "timestamp": "2025-10-14T11:10:00.026Z"
+      "timestamp": "2025-11-06T22:57:20.530Z"
     },
     {
       "id": 4,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Sure 39, I'm a male.",
-      "timestamp": "2025-10-14T11:11:19.951Z"
+      "timestamp": "2025-11-06T22:58:09.235Z"
     },
     {
       "id": 5,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and so when did this chest pain start?",
-      "timestamp": "2025-10-14T11:12:25.746Z"
+      "timestamp": "2025-11-06T22:59:00.178Z"
     },
     {
       "id": 6,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "It started last night, but it's becoming sharper.",
-      "timestamp": "2025-10-14T11:13:32.430Z"
+      "timestamp": "2025-11-06T23:00:24.653Z"
     },
     {
       "id": 7,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and where is this pain located?",
-      "timestamp": "2025-10-14T11:14:03.752Z"
+      "timestamp": "2025-11-06T23:01:04.870Z"
     },
     {
       "id": 8,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "It's located on the left side of my chest.",
-      "timestamp": "2025-10-14T11:15:57.401Z"
+      "timestamp": "2025-11-06T23:02:42.329Z"
     },
     {
       "id": 9,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and, so how long has it been going on for then if it started last night?",
-      "timestamp": "2025-10-14T11:17:16.900Z"
+      "timestamp": "2025-11-06T23:03:21.396Z"
     },
     {
       "id": 10,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "So I guess it would be a couple of hours now, maybe like 8.",
-      "timestamp": "2025-10-14T11:18:47.515Z"
+      "timestamp": "2025-11-06T23:03:58.598Z"
     },
     {
       "id": 11,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Has it been constant throughout that time, or uh, or changing?",
-      "timestamp": "2025-10-14T11:19:52.338Z"
+      "timestamp": "2025-11-06T23:05:07.726Z"
     },
     {
       "id": 12,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I would say it's been pretty constant, yeah.",
-      "timestamp": "2025-10-14T11:20:43.004Z"
+      "timestamp": "2025-11-06T23:06:31.795Z"
     },
     {
       "id": 13,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and how would you describe the pain? People will use words sometimes like sharp, burning, achy.",
-      "timestamp": "2025-10-14T11:22:23.982Z"
+      "timestamp": "2025-11-06T23:08:11.100Z"
     },
     {
       "id": 14,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I'd say it's pretty sharp, yeah.",
-      "timestamp": "2025-10-14T11:24:16.392Z"
+      "timestamp": "2025-11-06T23:09:39.382Z"
     },
     {
       "id": 15,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Sharp OK. Uh, anything that you have done tried since last night that's made the pain better?",
-      "timestamp": "2025-10-14T11:25:50.358Z"
+      "timestamp": "2025-11-06T23:10:26.374Z"
     },
     {
       "id": 16,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Um not laying down helps.",
-      "timestamp": "2025-10-14T11:27:42.829Z"
+      "timestamp": "2025-11-06T23:10:58.380Z"
     },
     {
       "id": 17,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, so do you find laying down makes the pain worse?",
-      "timestamp": "2025-10-14T11:29:40.993Z"
+      "timestamp": "2025-11-06T23:12:22.528Z"
     },
     {
       "id": 18,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Yes, definitely.",
-      "timestamp": "2025-10-14T11:30:41.240Z"
+      "timestamp": "2025-11-06T23:14:20.806Z"
     },
     {
       "id": 19,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, do you find that the pain is radiating anywhere?",
-      "timestamp": "2025-10-14T11:32:14.075Z"
+      "timestamp": "2025-11-06T23:15:38.473Z"
     },
     {
       "id": 20,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T11:34:07.495Z"
+      "timestamp": "2025-11-06T23:17:19.712Z"
     },
     {
       "id": 21,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and is there anything else that makes the pain worse besides laying down?",
-      "timestamp": "2025-10-14T11:35:09.887Z"
+      "timestamp": "2025-11-06T23:18:38.098Z"
     },
     {
       "id": 22,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Not that I've noticed, no.",
-      "timestamp": "2025-10-14T11:36:04.825Z"
+      "timestamp": "2025-11-06T23:19:59.668Z"
     },
     {
       "id": 23,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, so not like taking a deep breath or anything like that?",
-      "timestamp": "2025-10-14T11:36:56.659Z"
+      "timestamp": "2025-11-06T23:21:13.860Z"
     },
     {
       "id": 24,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Maybe taking a deep breath. Yeah.",
-      "timestamp": "2025-10-14T11:37:34.042Z"
+      "timestamp": "2025-11-06T23:22:56.939Z"
     },
     {
       "id": 25,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. And when the pain started, could you tell me uh, could you think of anything that you were doing at the time?",
-      "timestamp": "2025-10-14T11:39:21.702Z"
+      "timestamp": "2025-11-06T23:24:21.886Z"
     },
     {
       "id": 26,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I mean, I was moving some furniture around, but, that I've done that before.",
-      "timestamp": "2025-10-14T11:40:53.213Z"
+      "timestamp": "2025-11-06T23:26:21.055Z"
     },
     {
       "id": 27,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, so you didn't feel like you hurt yourself when you were doing that?",
-      "timestamp": "2025-10-14T11:42:43.594Z"
+      "timestamp": "2025-11-06T23:27:41.568Z"
     },
     {
       "id": 28,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T11:43:14.257Z"
+      "timestamp": "2025-11-06T23:29:02.465Z"
     },
     {
       "id": 29,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and in regards to how severe the pain is on a scale of 1 to 10, 10 being the worst pain you've ever felt, how severe would you say the pain is?",
-      "timestamp": "2025-10-14T11:43:54.362Z"
+      "timestamp": "2025-11-06T23:30:03.796Z"
     },
     {
       "id": 30,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I'd say it's like a seven or eight. It's pretty bad.",
-      "timestamp": "2025-10-14T11:44:26.640Z"
+      "timestamp": "2025-11-06T23:31:36.517Z"
     },
     {
       "id": 31,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and with the pain, do you have any other associated symptoms?",
-      "timestamp": "2025-10-14T11:45:47.458Z"
+      "timestamp": "2025-11-06T23:32:12.860Z"
     },
     {
       "id": 32,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I feel a little lightheaded and I'm having some trouble breathing.",
-      "timestamp": "2025-10-14T11:47:37.947Z"
+      "timestamp": "2025-11-06T23:33:18.929Z"
     },
     {
       "id": 33,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Have you had any loss of consciousness?",
-      "timestamp": "2025-10-14T11:48:34.097Z"
+      "timestamp": "2025-11-06T23:34:29.905Z"
     },
     {
       "id": 34,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T11:50:22.528Z"
+      "timestamp": "2025-11-06T23:35:35.753Z"
     },
     {
       "id": 35,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Uh, have you been experiencing any like racing of the heart?",
-      "timestamp": "2025-10-14T11:51:55.323Z"
+      "timestamp": "2025-11-06T23:36:06.468Z"
     },
     {
       "id": 36,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Um, a little bit, yeah.",
-      "timestamp": "2025-10-14T11:53:06.537Z"
+      "timestamp": "2025-11-06T23:37:05.398Z"
     },
     {
       "id": 37,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. And have you been sweaty at all?",
-      "timestamp": "2025-10-14T11:55:00.206Z"
+      "timestamp": "2025-11-06T23:38:48.274Z"
     },
     {
       "id": 38,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Just from the from having issues breathing.",
-      "timestamp": "2025-10-14T11:56:12.781Z"
+      "timestamp": "2025-11-06T23:39:39.698Z"
     },
     {
       "id": 39,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, have you been having issues breathing since the pain started?",
-      "timestamp": "2025-10-14T11:57:52.842Z"
+      "timestamp": "2025-11-06T23:40:19.277Z"
     },
     {
       "id": 40,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Yes.",
-      "timestamp": "2025-10-14T11:59:31.131Z"
+      "timestamp": "2025-11-06T23:41:19.510Z"
     },
     {
       "id": 41,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Um recently have you had any periods of time where you like have been immobilized or or, you haven't been like able to move around a lot?",
-      "timestamp": "2025-10-14T12:01:00.413Z"
+      "timestamp": "2025-11-06T23:42:13.290Z"
     },
     {
       "id": 42,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No no.",
-      "timestamp": "2025-10-14T12:02:58.541Z"
+      "timestamp": "2025-11-06T23:43:54.350Z"
     },
     {
       "id": 43,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. And have you been feeling sick at all? Any infectious symptoms?",
-      "timestamp": "2025-10-14T12:04:02.805Z"
+      "timestamp": "2025-11-06T23:44:34.529Z"
     },
     {
       "id": 44,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:05:24.969Z"
+      "timestamp": "2025-11-06T23:45:23.965Z"
     },
     {
       "id": 45,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, have you had any nausea or vomiting?",
-      "timestamp": "2025-10-14T12:06:56.903Z"
+      "timestamp": "2025-11-06T23:46:35.534Z"
     },
     {
       "id": 46,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:08:26.531Z"
+      "timestamp": "2025-11-06T23:47:18.443Z"
     },
     {
       "id": 47,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Any fevers or chills?",
-      "timestamp": "2025-10-14T12:09:15.782Z"
+      "timestamp": "2025-11-06T23:48:38.538Z"
     },
     {
       "id": 48,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:10:10.701Z"
+      "timestamp": "2025-11-06T23:50:03.253Z"
     },
     {
       "id": 49,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, how about any abdominal pain?",
-      "timestamp": "2025-10-14T12:12:01.886Z"
+      "timestamp": "2025-11-06T23:51:32.343Z"
     },
     {
       "id": 50,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:12:58.654Z"
+      "timestamp": "2025-11-06T23:52:52.284Z"
     },
     {
       "id": 51,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Any urinary problems?",
-      "timestamp": "2025-10-14T12:14:19.422Z"
+      "timestamp": "2025-11-06T23:54:31.738Z"
     },
     {
       "id": 52,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:16:07.661Z"
+      "timestamp": "2025-11-06T23:55:56.320Z"
     },
     {
       "id": 53,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Or bowel problems?",
-      "timestamp": "2025-10-14T12:17:27.978Z"
+      "timestamp": "2025-11-06T23:57:16.765Z"
     },
     {
       "id": 54,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:18:49.773Z"
+      "timestamp": "2025-11-06T23:58:09.566Z"
     },
     {
       "id": 55,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, have you had a cough?",
-      "timestamp": "2025-10-14T12:20:35.197Z"
+      "timestamp": "2025-11-06T23:59:23.883Z"
     },
     {
       "id": 56,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:22:08.225Z"
+      "timestamp": "2025-11-07T00:00:19.552Z"
     },
     {
       "id": 57,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. You haven't brought up any blood?",
-      "timestamp": "2025-10-14T12:22:59.806Z"
+      "timestamp": "2025-11-07T00:01:13.164Z"
     },
     {
       "id": 58,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:23:42.249Z"
+      "timestamp": "2025-11-07T00:02:11.362Z"
     },
     {
       "id": 59,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, have you had a wheeze with your difficulty breathing?",
-      "timestamp": "2025-10-14T12:24:20.456Z"
+      "timestamp": "2025-11-07T00:04:00.792Z"
     },
     {
       "id": 60,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No, not that I've heard.",
-      "timestamp": "2025-10-14T12:25:52.375Z"
+      "timestamp": "2025-11-07T00:04:33.070Z"
     },
     {
       "id": 61,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, any changes to the breath sounds at all like any noisy breathing?",
-      "timestamp": "2025-10-14T12:27:46.981Z"
+      "timestamp": "2025-11-07T00:05:21.723Z"
     },
     {
       "id": 62,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No. Well, I guess if when I'm really having trouble breathing, yeah.",
-      "timestamp": "2025-10-14T12:28:32.278Z"
+      "timestamp": "2025-11-07T00:06:59.457Z"
     },
     {
       "id": 63,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Has anything like this ever happened to you before?",
-      "timestamp": "2025-10-14T12:30:06.693Z"
+      "timestamp": "2025-11-07T00:08:42.300Z"
     },
     {
       "id": 64,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:31:19.632Z"
+      "timestamp": "2025-11-07T00:10:34.141Z"
     },
     {
       "id": 65,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "No, OK. And have you had any night sweats?",
-      "timestamp": "2025-10-14T12:32:36.212Z"
+      "timestamp": "2025-11-07T00:11:58.735Z"
     },
     {
       "id": 66,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:33:12.364Z"
+      "timestamp": "2025-11-07T00:13:44.172Z"
     },
     {
       "id": 67,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Alright, and then how about any rashes or skin changes?",
-      "timestamp": "2025-10-14T12:34:37.367Z"
+      "timestamp": "2025-11-07T00:15:33.980Z"
     },
     {
       "id": 68,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No rashes, but I guess like my neck seems to be a little swollen.",
-      "timestamp": "2025-10-14T12:36:06.941Z"
+      "timestamp": "2025-11-07T00:17:12.097Z"
     },
     {
       "id": 69,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, do you have any neck pain?",
-      "timestamp": "2025-10-14T12:37:03.555Z"
+      "timestamp": "2025-11-07T00:18:21.613Z"
     },
     {
       "id": 70,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:38:24.609Z"
+      "timestamp": "2025-11-07T00:19:33.196Z"
     },
     {
       "id": 71,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, have you had any like accidents like a car accident or anything where you really jerked your neck?",
-      "timestamp": "2025-10-14T12:39:01.185Z"
+      "timestamp": "2025-11-07T00:20:13.488Z"
     },
     {
       "id": 72,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:39:31.990Z"
+      "timestamp": "2025-11-07T00:22:01.051Z"
     },
     {
       "id": 73,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Um any any trauma at all to the chest or or back?",
-      "timestamp": "2025-10-14T12:41:04.897Z"
+      "timestamp": "2025-11-07T00:22:32.987Z"
     },
     {
       "id": 74,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:41:57.171Z"
+      "timestamp": "2025-11-07T00:24:13.515Z"
     },
     {
       "id": 75,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, so just in regards to past medical history, do you have any prior medical conditions?",
-      "timestamp": "2025-10-14T12:43:45.399Z"
+      "timestamp": "2025-11-07T00:25:42.304Z"
     },
     {
       "id": 76,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:45:34.030Z"
+      "timestamp": "2025-11-07T00:26:27.788Z"
     },
     {
       "id": 77,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, any recent hospitalizations?",
-      "timestamp": "2025-10-14T12:46:20.135Z"
+      "timestamp": "2025-11-07T00:27:54.127Z"
     },
     {
       "id": 78,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:46:50.863Z"
+      "timestamp": "2025-11-07T00:28:54.290Z"
     },
     {
       "id": 79,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, any prior surgeries?",
-      "timestamp": "2025-10-14T12:47:22.551Z"
+      "timestamp": "2025-11-07T00:30:34.799Z"
     },
     {
       "id": 80,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:48:29.017Z"
+      "timestamp": "2025-11-07T00:32:21.120Z"
     },
     {
       "id": 81,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, do you take any medications regularly? Are they prescribed or over the counter?",
-      "timestamp": "2025-10-14T12:50:00.117Z"
+      "timestamp": "2025-11-07T00:33:44.281Z"
     },
     {
       "id": 82,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T12:51:09.171Z"
+      "timestamp": "2025-11-07T00:34:38.586Z"
     },
     {
       "id": 83,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Alright, how about any allergies to medications?",
-      "timestamp": "2025-10-14T12:52:43.757Z"
+      "timestamp": "2025-11-07T00:35:46.565Z"
     },
     {
       "id": 84,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "None.",
-      "timestamp": "2025-10-14T12:53:18.135Z"
+      "timestamp": "2025-11-07T00:36:20.594Z"
     },
     {
       "id": 85,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Alright, any immunizations or are they up to date?",
-      "timestamp": "2025-10-14T12:53:53.594Z"
+      "timestamp": "2025-11-07T00:37:04.224Z"
     },
     {
       "id": 86,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "They are all up to date.",
-      "timestamp": "2025-10-14T12:55:43.795Z"
+      "timestamp": "2025-11-07T00:38:29.167Z"
     },
     {
       "id": 87,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Excellent. Alright, and could you tell me a little bit about your living situation currently?",
-      "timestamp": "2025-10-14T12:57:21.827Z"
+      "timestamp": "2025-11-07T00:39:23.163Z"
     },
     {
       "id": 88,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Sure, I live in an apartment by myself. I, uh, yep, that's about it.",
-      "timestamp": "2025-10-14T12:59:12.130Z"
+      "timestamp": "2025-11-07T00:40:26.920Z"
     },
     {
       "id": 89,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and how do you support yourself financially?",
-      "timestamp": "2025-10-14T12:59:54.029Z"
+      "timestamp": "2025-11-07T00:41:01.145Z"
     },
     {
       "id": 90,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I'm an accountant.",
-      "timestamp": "2025-10-14T13:01:30.671Z"
+      "timestamp": "2025-11-07T00:41:37.076Z"
     },
     {
       "id": 91,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, sounds like a pretty stressful job or that it can be. Do you smoke cigarettes?",
-      "timestamp": "2025-10-14T13:03:05.445Z"
+      "timestamp": "2025-11-07T00:42:10.678Z"
     },
     {
       "id": 92,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I do.",
-      "timestamp": "2025-10-14T13:04:45.956Z"
+      "timestamp": "2025-11-07T00:44:03.047Z"
     },
     {
       "id": 93,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and how much do you smoke?",
-      "timestamp": "2025-10-14T13:06:16.486Z"
+      "timestamp": "2025-11-07T00:45:48.371Z"
     },
     {
       "id": 94,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I smoke about a pack a day.",
-      "timestamp": "2025-10-14T13:08:01.650Z"
+      "timestamp": "2025-11-07T00:47:19.388Z"
     },
     {
       "id": 95,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, how long have you been smoking for?",
-      "timestamp": "2025-10-14T13:08:41.550Z"
+      "timestamp": "2025-11-07T00:48:17.519Z"
     },
     {
       "id": 96,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "For the past 10 to 15 years.",
-      "timestamp": "2025-10-14T13:09:45.603Z"
+      "timestamp": "2025-11-07T00:49:12.778Z"
     },
     {
       "id": 97,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and do you smoke cannabis?",
-      "timestamp": "2025-10-14T13:10:39.563Z"
+      "timestamp": "2025-11-07T00:50:49.923Z"
     },
     {
       "id": 98,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Uh sometimes.",
-      "timestamp": "2025-10-14T13:12:17.055Z"
+      "timestamp": "2025-11-07T00:51:26.541Z"
     },
     {
       "id": 99,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "Uh, how much marijuana would you smoke per per week?",
-      "timestamp": "2025-10-14T13:13:04.599Z"
+      "timestamp": "2025-11-07T00:52:46.572Z"
     },
     {
       "id": 100,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Per week, maybe about 5 milligrams. Not that much.",
-      "timestamp": "2025-10-14T13:14:17.259Z"
+      "timestamp": "2025-11-07T00:54:00.762Z"
     },
     {
       "id": 101,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and do you use any other recreational drugs like cocaine, crystal, meth, opioids?",
-      "timestamp": "2025-10-14T13:15:02.840Z"
+      "timestamp": "2025-11-07T00:55:05.777Z"
     },
     {
       "id": 102,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T13:16:23.502Z"
+      "timestamp": "2025-11-07T00:57:05.156Z"
     },
     {
       "id": 103,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. Have you used IV drugs before?",
-      "timestamp": "2025-10-14T13:18:15.319Z"
+      "timestamp": "2025-11-07T00:58:25.752Z"
     },
     {
       "id": 104,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T13:20:05.588Z"
+      "timestamp": "2025-11-07T00:59:22.113Z"
     },
     {
       "id": 105,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. And do you drink alcohol?",
-      "timestamp": "2025-10-14T13:21:50.543Z"
+      "timestamp": "2025-11-07T01:01:03.381Z"
     },
     {
       "id": 106,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I do.",
-      "timestamp": "2025-10-14T13:22:30.221Z"
+      "timestamp": "2025-11-07T01:01:35.041Z"
     },
     {
       "id": 107,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK. How much alcohol do you drink each week?",
-      "timestamp": "2025-10-14T13:23:57.320Z"
+      "timestamp": "2025-11-07T01:02:08.115Z"
     },
     {
       "id": 108,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Uhm about I would say I have like one or two drinks a day, so about 10 drinks a week.",
-      "timestamp": "2025-10-14T13:24:30.995Z"
+      "timestamp": "2025-11-07T01:03:42.260Z"
     },
     {
       "id": 109,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, uh, yeah and um alright, and then briefly, could you tell me a little bit about your like diet and exercise?",
-      "timestamp": "2025-10-14T13:25:13.336Z"
+      "timestamp": "2025-11-07T01:04:35.116Z"
     },
     {
       "id": 110,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Sure, I try to eat healthy for dinner at least, but most of my lunches are, uh I eat out. And then in terms of exercise, I try to exercise every other day, I run for about half an hour.",
-      "timestamp": "2025-10-14T13:25:52.520Z"
+      "timestamp": "2025-11-07T01:05:35.197Z"
     },
     {
       "id": 111,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, well that's great that you've been working on the the activity and the diet as well. So has anything like this happened in your family before?",
-      "timestamp": "2025-10-14T13:27:11.501Z"
+      "timestamp": "2025-11-07T01:06:37.532Z"
     },
     {
       "id": 112,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T13:28:50.741Z"
+      "timestamp": "2025-11-07T01:07:34.025Z"
     },
     {
       "id": 113,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, has anybody in the family had a heart attack before?",
-      "timestamp": "2025-10-14T13:30:41.955Z"
+      "timestamp": "2025-11-07T01:09:00.957Z"
     },
     {
       "id": 114,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "Actually, yes, my father had a heart attack when he was 45.",
-      "timestamp": "2025-10-14T13:32:23.609Z"
+      "timestamp": "2025-11-07T01:10:10.940Z"
     },
     {
       "id": 115,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and anybody in the family have cholesterol problems?",
-      "timestamp": "2025-10-14T13:32:56.914Z"
+      "timestamp": "2025-11-07T01:11:29.080Z"
     },
     {
       "id": 116,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "I think my father did.",
-      "timestamp": "2025-10-14T13:34:02.110Z"
+      "timestamp": "2025-11-07T01:13:09.074Z"
     },
     {
       "id": 117,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "I see OK, and how about anybody in the family have a stroke?",
-      "timestamp": "2025-10-14T13:35:57.844Z"
+      "timestamp": "2025-11-07T01:14:57.557Z"
     },
     {
       "id": 118,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No strokes.",
-      "timestamp": "2025-10-14T13:37:26.509Z"
+      "timestamp": "2025-11-07T01:16:22.090Z"
     },
     {
       "id": 119,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and then any cancers in the family?",
-      "timestamp": "2025-10-14T13:37:59.809Z"
+      "timestamp": "2025-11-07T01:18:00.364Z"
     },
     {
       "id": 120,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-14T13:39:36.251Z"
+      "timestamp": "2025-11-07T01:18:44.954Z"
     },
     {
       "id": 121,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "doctor",
       "body": "OK, and is there anything else that you wanted to tell me about today that that I on on history?",
-      "timestamp": "2025-10-14T13:41:25.699Z"
+      "timestamp": "2025-11-07T01:20:24.607Z"
     },
     {
       "id": 122,
-      "transcriptId": "2f0655a9-620a-4684-a27d-f24ffad30c94",
+      "transcriptId": "cc0da9a4-e7dc-48a4-93d5-31f249f5a9f4",
       "role": "patient",
       "body": "No, I don't think so. I think you asked me everything.",
-      "timestamp": "2025-10-14T13:42:24.651Z"
+      "timestamp": "2025-11-07T01:21:16.528Z"
     }
   ],
-  "3e943dd5-5a59-47b1-96d6-58ca23eefa78": [
+  "7363a323-fe3b-4955-895a-d2e3e8b5f2a1": [
     {
       "id": 1,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "What brings you in here today?",
-      "timestamp": "2025-10-16T05:22:40.523Z"
+      "timestamp": "2025-10-14T09:56:56.502Z"
     },
     {
       "id": 2,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Yeah, I have this pain in my chest.",
-      "timestamp": "2025-10-16T05:24:27.064Z"
+      "timestamp": "2025-10-14T09:58:13.931Z"
     },
     {
       "id": 3,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and where is the pain exactly?",
-      "timestamp": "2025-10-16T05:25:05.696Z"
+      "timestamp": "2025-10-14T09:58:59.111Z"
     },
     {
       "id": 4,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "It's just right  over on the on the left side.",
-      "timestamp": "2025-10-16T05:26:48.590Z"
+      "timestamp": "2025-10-14T09:59:42.450Z"
     },
     {
       "id": 5,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and when did this pain start?",
-      "timestamp": "2025-10-16T05:27:31.233Z"
+      "timestamp": "2025-10-14T10:00:27.713Z"
     },
     {
       "id": 6,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "It started just 30 minutes ago.",
-      "timestamp": "2025-10-16T05:28:20.335Z"
+      "timestamp": "2025-10-14T10:01:14.738Z"
     },
     {
       "id": 7,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and did it just come on randomly or were you doing something strenuous?",
-      "timestamp": "2025-10-16T05:29:37.358Z"
+      "timestamp": "2025-10-14T10:02:56.452Z"
     },
     {
       "id": 8,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "I was just shovelling the driveway and it came on.",
-      "timestamp": "2025-10-16T05:30:47.146Z"
+      "timestamp": "2025-10-14T10:04:48.159Z"
     },
     {
       "id": 9,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and has that pain been getting worse at all over the last half an hour?",
-      "timestamp": "2025-10-16T05:32:16.379Z"
+      "timestamp": "2025-10-14T10:06:40.437Z"
     },
     {
       "id": 10,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No, it just came on suddenly and it's uh, uh, I'm sorry. Yeah the pain has been there this whole time and it's gotten worse ever since it started.",
-      "timestamp": "2025-10-16T05:33:08.114Z"
+      "timestamp": "2025-10-14T10:07:47.957Z"
     },
     {
       "id": 11,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tight tightness kind of pain? How would you describe it?",
-      "timestamp": "2025-10-16T05:34:21.845Z"
+      "timestamp": "2025-10-14T10:09:18.178Z"
     },
     {
       "id": 12,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "It feels dull. I feel like there's a lot of pressure on my chest.",
-      "timestamp": "2025-10-16T05:35:05.251Z"
+      "timestamp": "2025-10-14T10:10:59.294Z"
     },
     {
       "id": 13,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "And how do you rate the pain right now on a scale of zero to 10, zero being the least amount of pain you felt in your life, 10 being the worst?",
-      "timestamp": "2025-10-16T05:36:29.864Z"
+      "timestamp": "2025-10-14T10:11:57.698Z"
     },
     {
       "id": 14,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh, seven.",
-      "timestamp": "2025-10-16T05:37:52.739Z"
+      "timestamp": "2025-10-14T10:13:08.797Z"
     },
     {
       "id": 15,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "Seven, OK. Have you had ny similar episodes before?",
-      "timestamp": "2025-10-16T05:39:05.876Z"
+      "timestamp": "2025-10-14T10:14:04.957Z"
     },
     {
       "id": 16,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No, I've never had any chest pain before.",
-      "timestamp": "2025-10-16T05:39:53.940Z"
+      "timestamp": "2025-10-14T10:15:26.629Z"
     },
     {
       "id": 17,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and is the pain just staying in the region of the left chest area that you mentioned or is it traveling to any other part of your body?",
-      "timestamp": "2025-10-16T05:40:30.036Z"
+      "timestamp": "2025-10-14T10:17:09.570Z"
     },
     {
       "id": 18,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No, I'm kind of just feeling it right here. On the left side.",
-      "timestamp": "2025-10-16T05:42:27.753Z"
+      "timestamp": "2025-10-14T10:18:01.454Z"
     },
     {
       "id": 19,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, uh, is there anything that you do that makes the pain either get worse or go away or like get better?",
-      "timestamp": "2025-10-16T05:43:15.227Z"
+      "timestamp": "2025-10-14T10:19:59.486Z"
     },
     {
       "id": 20,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh. I think it's a bit bit worse if I'm moving around or when I was walking in here. I think it it made it a bit worse, but nothing has seemed to make it any better since it starting.",
-      "timestamp": "2025-10-16T05:44:04.295Z"
+      "timestamp": "2025-10-14T10:20:44.378Z"
     },
     {
       "id": 21,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and does it change at all from you changing positions like if you're standing up versus sitting down or laying down?",
-      "timestamp": "2025-10-16T05:44:50.835Z"
+      "timestamp": "2025-10-14T10:22:04.306Z"
     },
     {
       "id": 22,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "I think it's a little bit worse when I when I'm laying down.",
-      "timestamp": "2025-10-16T05:45:33.013Z"
+      "timestamp": "2025-10-14T10:23:14.339Z"
     },
     {
       "id": 23,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and other than the pain that you've been having, have you been having any other symptoms like a cough or difficulty breathing or any pain when you're breathing in or out?",
-      "timestamp": "2025-10-16T05:46:28.065Z"
+      "timestamp": "2025-10-14T10:24:16.395Z"
     },
     {
       "id": 24,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh, I've felt a little bit uh short of breath or having difficulty breathing since yesterday when the sorry since the pain started, but uh just the difficulty breathing.",
-      "timestamp": "2025-10-16T05:47:46.319Z"
+      "timestamp": "2025-10-14T10:25:00.954Z"
     },
     {
       "id": 25,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. And have you recently injured your chest or surrounding area at all? Like from a fall or anything like that?",
-      "timestamp": "2025-10-16T05:49:11.287Z"
+      "timestamp": "2025-10-14T10:25:57.091Z"
     },
     {
       "id": 26,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "I do I play rugby and was tackled by another player yesterday. But but my chest felt fine after that.",
-      "timestamp": "2025-10-16T05:49:41.317Z"
+      "timestamp": "2025-10-14T10:26:54.321Z"
     },
     {
       "id": 27,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK so but the pain just started half an hour ago?",
-      "timestamp": "2025-10-16T05:50:12.853Z"
+      "timestamp": "2025-10-14T10:28:11.652Z"
     },
     {
       "id": 28,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Yeah.",
-      "timestamp": "2025-10-16T05:51:39.711Z"
+      "timestamp": "2025-10-14T10:29:36.355Z"
     },
     {
       "id": 29,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, have you have you been traveling at all recently?",
-      "timestamp": "2025-10-16T05:53:07.455Z"
+      "timestamp": "2025-10-14T10:30:28.275Z"
     },
     {
       "id": 30,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No, been at home.",
-      "timestamp": "2025-10-16T05:53:41.308Z"
+      "timestamp": "2025-10-14T10:31:58.570Z"
     },
     {
       "id": 31,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, has anyone around you been sick at all?",
-      "timestamp": "2025-10-16T05:55:39.600Z"
+      "timestamp": "2025-10-14T10:33:50.616Z"
     },
     {
       "id": 32,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-16T05:57:29.352Z"
+      "timestamp": "2025-10-14T10:35:38.540Z"
     },
     {
       "id": 33,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, have you been having any symptoms like nausea or vomiting or any fevers or chills?",
-      "timestamp": "2025-10-16T05:59:11.392Z"
+      "timestamp": "2025-10-14T10:36:43.320Z"
     },
     {
       "id": 34,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No nausea or vomiting, but I do feel a little bit hot today.",
-      "timestamp": "2025-10-16T06:00:20.953Z"
+      "timestamp": "2025-10-14T10:37:14.773Z"
     },
     {
       "id": 35,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, but have you measured your temperature at all?",
-      "timestamp": "2025-10-16T06:02:20.027Z"
+      "timestamp": "2025-10-14T10:38:23.615Z"
     },
     {
       "id": 36,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh I did and it was 38 degrees.",
-      "timestamp": "2025-10-16T06:02:54.344Z"
+      "timestamp": "2025-10-14T10:40:12.559Z"
     },
     {
       "id": 37,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and have you been having any kind of swelling in your legs or feet?",
-      "timestamp": "2025-10-16T06:03:26.163Z"
+      "timestamp": "2025-10-14T10:41:00.187Z"
     },
     {
       "id": 38,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh, no swelling in my legs.",
-      "timestamp": "2025-10-16T06:05:02.122Z"
+      "timestamp": "2025-10-14T10:42:05.266Z"
     },
     {
       "id": 39,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. Have you been feeling tired at all, like increasingly fatigued?",
-      "timestamp": "2025-10-16T06:05:46.722Z"
+      "timestamp": "2025-10-14T10:43:30.063Z"
     },
     {
       "id": 40,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No, my energy has been good.",
-      "timestamp": "2025-10-16T06:06:54.650Z"
+      "timestamp": "2025-10-14T10:44:51.455Z"
     },
     {
       "id": 41,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "Have you been having any kind of thumping or palpitations or feel like your heart has been racing at all?",
-      "timestamp": "2025-10-16T06:07:36.153Z"
+      "timestamp": "2025-10-14T10:46:00.684Z"
     },
     {
       "id": 42,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "It uhh it does feel like it's beating faster right now. It usually only feels like this when I'm playing sports.",
-      "timestamp": "2025-10-16T06:09:04.382Z"
+      "timestamp": "2025-10-14T10:47:28.530Z"
     },
     {
       "id": 43,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. And have you noticed any changes in your skin at all? Any rashes?",
-      "timestamp": "2025-10-16T06:09:44.014Z"
+      "timestamp": "2025-10-14T10:49:04.410Z"
     },
     {
       "id": 44,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No rashes.",
-      "timestamp": "2025-10-16T06:10:40.596Z"
+      "timestamp": "2025-10-14T10:49:34.508Z"
     },
     {
       "id": 45,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, have you had any cough or runny nose or sore throat? Any kind of those symptoms and in the past month?",
-      "timestamp": "2025-10-16T06:12:12.183Z"
+      "timestamp": "2025-10-14T10:51:09.847Z"
     },
     {
       "id": 46,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh few weeks ago I was a little runny, but that went away on its own. I haven't had any cough.",
-      "timestamp": "2025-10-16T06:12:52.186Z"
+      "timestamp": "2025-10-14T10:51:47.179Z"
     },
     {
       "id": 47,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and have you been feeling dizzy at all or have you fainted?",
-      "timestamp": "2025-10-16T06:13:58.335Z"
+      "timestamp": "2025-10-14T10:53:36.228Z"
     },
     {
       "id": 48,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No dizziness and uh no I haven't fainted at all.",
-      "timestamp": "2025-10-16T06:14:47.129Z"
+      "timestamp": "2025-10-14T10:55:24.514Z"
     },
     {
       "id": 49,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. Just a few more questions. Have you had any diagnosis made by any physician or any anything like diabetes or high blood pressure?",
-      "timestamp": "2025-10-16T06:16:23.065Z"
+      "timestamp": "2025-10-14T10:57:19.505Z"
     },
     {
       "id": 50,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Yeah, I've been told I have high cholesterol and high blood pressure.",
-      "timestamp": "2025-10-16T06:17:48.414Z"
+      "timestamp": "2025-10-14T10:59:08.375Z"
     },
     {
       "id": 51,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and do you take any medications for the these things?",
-      "timestamp": "2025-10-16T06:18:39.109Z"
+      "timestamp": "2025-10-14T11:00:12.157Z"
     },
     {
       "id": 52,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Um, I do take medications for both blood pressure and cholesterol, Rosuvastatin and um Lisinopril and I take a multi vitamin.",
-      "timestamp": "2025-10-16T06:20:17.506Z"
+      "timestamp": "2025-10-14T11:01:29.986Z"
     },
     {
       "id": 53,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and do you have any allergies to any medications at all?",
-      "timestamp": "2025-10-16T06:21:07.295Z"
+      "timestamp": "2025-10-14T11:02:00.433Z"
     },
     {
       "id": 54,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No allergies.",
-      "timestamp": "2025-10-16T06:22:32.082Z"
+      "timestamp": "2025-10-14T11:03:15.368Z"
     },
     {
       "id": 55,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, have you at all in the past been hospitalized for any reason?",
-      "timestamp": "2025-10-16T06:24:15.660Z"
+      "timestamp": "2025-10-14T11:04:42.659Z"
     },
     {
       "id": 56,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No hospitalizations.",
-      "timestamp": "2025-10-16T06:25:29.757Z"
+      "timestamp": "2025-10-14T11:05:26.695Z"
     },
     {
       "id": 57,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "Any previous surgeries?",
-      "timestamp": "2025-10-16T06:26:49.416Z"
+      "timestamp": "2025-10-14T11:06:50.168Z"
     },
     {
       "id": 58,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-16T06:27:48.008Z"
+      "timestamp": "2025-10-14T11:08:10.448Z"
     },
     {
       "id": 59,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and within your family, has anyone passed away from a heart attack or any cancers that run in the family?",
-      "timestamp": "2025-10-16T06:28:36.899Z"
+      "timestamp": "2025-10-14T11:09:24.440Z"
     },
     {
       "id": 60,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No.",
-      "timestamp": "2025-10-16T06:29:25.208Z"
+      "timestamp": "2025-10-14T11:10:42.575Z"
     },
     {
       "id": 61,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and currently right now, do you live alone? Do you live with someone? And where do you live, like an apartment or house?",
-      "timestamp": "2025-10-16T06:30:11.328Z"
+      "timestamp": "2025-10-14T11:11:34.684Z"
     },
     {
       "id": 62,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "I I live in a house with um, my parents.",
-      "timestamp": "2025-10-16T06:31:07.319Z"
+      "timestamp": "2025-10-14T11:12:13.654Z"
     },
     {
       "id": 63,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and do you currently work?",
-      "timestamp": "2025-10-16T06:32:52.561Z"
+      "timestamp": "2025-10-14T11:13:09.744Z"
     },
     {
       "id": 64,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Yeah, I I drive a bus for the city.",
-      "timestamp": "2025-10-16T06:34:34.033Z"
+      "timestamp": "2025-10-14T11:14:00.953Z"
     },
     {
       "id": 65,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. And in your daily routine, would you say you get enough exercise throughout the week?",
-      "timestamp": "2025-10-16T06:36:05.789Z"
+      "timestamp": "2025-10-14T11:15:36.826Z"
     },
     {
       "id": 66,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uhh yeah, usually on Sundays I'll go for a run.",
-      "timestamp": "2025-10-16T06:37:55.000Z"
+      "timestamp": "2025-10-14T11:16:21.307Z"
     },
     {
       "id": 67,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and how about your diet? Well, how's your diet like, just regularly?",
-      "timestamp": "2025-10-16T06:38:31.118Z"
+      "timestamp": "2025-10-14T11:17:59.857Z"
     },
     {
       "id": 68,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uhh, usually I feel like it's fairly balanced overall, I might I eat out a little bit too often, but try to eat as many vegetables as I can.",
-      "timestamp": "2025-10-16T06:40:17.426Z"
+      "timestamp": "2025-10-14T11:18:31.097Z"
     },
     {
       "id": 69,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. And do you smoke cigarettes at all?",
-      "timestamp": "2025-10-16T06:41:15.143Z"
+      "timestamp": "2025-10-14T11:19:15.594Z"
     },
     {
       "id": 70,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "I do yes. Been smoking for the last 20 years roughly.",
-      "timestamp": "2025-10-16T06:42:58.260Z"
+      "timestamp": "2025-10-14T11:19:45.812Z"
     },
     {
       "id": 71,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, how much do you smoke on an average day?",
-      "timestamp": "2025-10-16T06:44:00.817Z"
+      "timestamp": "2025-10-14T11:20:18.682Z"
     },
     {
       "id": 72,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "About a half a pack to a pack a day.",
-      "timestamp": "2025-10-16T06:44:58.025Z"
+      "timestamp": "2025-10-14T11:22:15.241Z"
     },
     {
       "id": 73,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK. And do you drink?",
-      "timestamp": "2025-10-16T06:46:00.308Z"
+      "timestamp": "2025-10-14T11:23:13.947Z"
     },
     {
       "id": 74,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "No alcohol.",
-      "timestamp": "2025-10-16T06:47:52.277Z"
+      "timestamp": "2025-10-14T11:23:58.872Z"
     },
     {
       "id": 75,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and any recreational drugs like marijuana?",
-      "timestamp": "2025-10-16T06:48:57.226Z"
+      "timestamp": "2025-10-14T11:24:43.003Z"
     },
     {
       "id": 76,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Um, no marijuana, but I have used crystal meth in the past.",
-      "timestamp": "2025-10-16T06:50:03.404Z"
+      "timestamp": "2025-10-14T11:25:36.310Z"
     },
     {
       "id": 77,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "OK, and when was the last time that you used crystal meth?",
-      "timestamp": "2025-10-16T06:51:19.070Z"
+      "timestamp": "2025-10-14T11:27:00.927Z"
     },
     {
       "id": 78,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Um, six days ago.",
-      "timestamp": "2025-10-16T06:53:02.201Z"
+      "timestamp": "2025-10-14T11:27:51.131Z"
     },
     {
       "id": 79,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "Six days ago, OK, and how often do you use crystal meth?",
-      "timestamp": "2025-10-16T06:53:47.537Z"
+      "timestamp": "2025-10-14T11:29:22.621Z"
     },
     {
       "id": 80,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Um, I would say a couple of times a month.",
-      "timestamp": "2025-10-16T06:54:42.176Z"
+      "timestamp": "2025-10-14T11:30:30.086Z"
     },
     {
       "id": 81,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "A couple of times a month, OK. Alright, and for how long have you been using crystal meth?",
-      "timestamp": "2025-10-16T06:55:38.837Z"
+      "timestamp": "2025-10-14T11:32:24.917Z"
     },
     {
       "id": 82,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "patient",
       "body": "Uh for the last seven years.",
-      "timestamp": "2025-10-16T06:56:55.832Z"
+      "timestamp": "2025-10-14T11:33:03.503Z"
     },
     {
       "id": 83,
-      "transcriptId": "3e943dd5-5a59-47b1-96d6-58ca23eefa78",
+      "transcriptId": "7363a323-fe3b-4955-895a-d2e3e8b5f2a1",
       "role": "doctor",
       "body": "Seven years, OK.",
-      "timestamp": "2025-10-16T06:58:13.315Z"
+      "timestamp": "2025-10-14T11:33:55.996Z"
+    }
+  ],
+  "b4dda34d-ee75-4d5d-b598-2f2ae76f375c": [
+    {
+      "id": 1,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "What brings you in today?",
+      "timestamp": "2025-10-31T09:48:06.343Z"
+    },
+    {
+      "id": 2,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "I've just been feeling like very nauseated for, it feels like all the time right now.",
+      "timestamp": "2025-10-31T09:49:06.067Z"
+    },
+    {
+      "id": 3,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "When did this start?",
+      "timestamp": "2025-10-31T09:50:29.998Z"
+    },
+    {
+      "id": 4,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "It's been over a week. Maybe not quite two weeks, but like around then. Yeah, maybe like 9 days.",
+      "timestamp": "2025-10-31T09:51:42.202Z"
+    },
+    {
+      "id": 5,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "And um, is it, do you always have the sensation of nausea or is it related, or does it come and go?",
+      "timestamp": "2025-10-31T09:53:19.265Z"
+    },
+    {
+      "id": 6,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh, I think it's like worse when I am smelling something really bad, and it's worse in the morning. But I feel like it's always kind of there.",
+      "timestamp": "2025-10-31T09:55:00.294Z"
+    },
+    {
+      "id": 7,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "I see OK. Um, have you had any vomiting?",
+      "timestamp": "2025-10-31T09:55:38.989Z"
+    },
+    {
+      "id": 8,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh, yeah, like um, yeah, like a lot of days I'll throw up like once or twice.",
+      "timestamp": "2025-10-31T09:56:23.863Z"
+    },
+    {
+      "id": 9,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "And this has all been over the past week, week two weeks or so?",
+      "timestamp": "2025-10-31T09:57:47.546Z"
+    },
+    {
+      "id": 10,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Yeah.",
+      "timestamp": "2025-10-31T09:59:10.041Z"
+    },
+    {
+      "id": 11,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, um, any other symptoms that you have?",
+      "timestamp": "2025-10-31T10:00:17.113Z"
+    },
+    {
+      "id": 12,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh no, just, well, like I feel like I've I've had to pee a lot more. Um, but I don't, I don't think that's like related. I think maybe I have just been drinking a lot of water, so yeah.",
+      "timestamp": "2025-10-31T10:00:59.285Z"
+    },
+    {
+      "id": 13,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "How often do you have to pee?",
+      "timestamp": "2025-10-31T10:02:26.697Z"
+    },
+    {
+      "id": 14,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh, like, I feel like every couple hours right now.",
+      "timestamp": "2025-10-31T10:03:40.417Z"
+    },
+    {
+      "id": 15,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, so say every two hours, every hour, every five hours?",
+      "timestamp": "2025-10-31T10:05:25.746Z"
+    },
+    {
+      "id": 16,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Probably every probably every like 2, maybe, maybe every hour I get certain times in a day.",
+      "timestamp": "2025-10-31T10:06:14.756Z"
+    },
+    {
+      "id": 17,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Do you wake up at night to pee?",
+      "timestamp": "2025-10-31T10:07:26.648Z"
+    },
+    {
+      "id": 18,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh, like it doesn't wake me up but it's like I wake up because I hear something. Then I'll be like, oh I think I should probably go to the bathroom.",
+      "timestamp": "2025-10-31T10:08:43.714Z"
+    },
+    {
+      "id": 19,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Yeah, do you feel like you have control over when you are going to bathroom or is it difficult for you to hold it in?",
+      "timestamp": "2025-10-31T10:10:15.152Z"
+    },
+    {
+      "id": 20,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh I I I can control it. It's just like uncomfortable right?",
+      "timestamp": "2025-10-31T10:12:14.944Z"
+    },
+    {
+      "id": 21,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "I see I see so, um, you have urinary frequency, but do you do you feel like, uh so you said that you can control it, you don't you don't feel like you need to run to the bathroom or you'll pee in your pants?",
+      "timestamp": "2025-10-31T10:12:48.806Z"
+    },
+    {
+      "id": 22,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No, I don't feel like that.",
+      "timestamp": "2025-10-31T10:13:23.604Z"
+    },
+    {
+      "id": 23,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK. Do you have any pain when you're peeing?",
+      "timestamp": "2025-10-31T10:15:17.953Z"
+    },
+    {
+      "id": 24,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T10:16:18.131Z"
+    },
+    {
+      "id": 25,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "No, OK alright um, do you feel like you've been more thirsty recently? Why do you feel you've been drinking more more water?",
+      "timestamp": "2025-10-31T10:17:18.962Z"
+    },
+    {
+      "id": 26,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "I think, I think just 'cause like I was getting I was like throwing up like so like I feel like I was a little dehydrated.",
+      "timestamp": "2025-10-31T10:18:26.993Z"
+    },
+    {
+      "id": 27,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Um, I see OK, um, have you, other than the nausea and vomiting, have you had any other stomach related issues? Any belly pain or changes in your bowel movements?",
+      "timestamp": "2025-10-31T10:20:01.346Z"
+    },
+    {
+      "id": 28,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Ah no, I don't think so, well my stomach has been like it feels like a little crampy. I thought that maybe it could be my period but like I'm not on my period.",
+      "timestamp": "2025-10-31T10:21:23.612Z"
+    },
+    {
+      "id": 29,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "When did you last have your period?",
+      "timestamp": "2025-10-31T10:22:51.099Z"
+    },
+    {
+      "id": 30,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh well, let me think. Um, like six weeks ago. I guess that would be, I don't know. I don't really like keep track.",
+      "timestamp": "2025-10-31T10:23:48.006Z"
+    },
+    {
+      "id": 31,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, OK. Do you know if you get your periods regularly or are your periods irregular?",
+      "timestamp": "2025-10-31T10:25:45.868Z"
+    },
+    {
+      "id": 32,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "I think they're I think they're usually pretty regular, but I don't I don't like I don't calculate it like to the day.",
+      "timestamp": "2025-10-31T10:27:35.423Z"
+    },
+    {
+      "id": 33,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "True yeah, is it is it normal for you to go six weeks without a period?",
+      "timestamp": "2025-10-31T10:29:28.454Z"
+    },
+    {
+      "id": 34,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh, come to think of it, I don't, I don't think so.",
+      "timestamp": "2025-10-31T10:30:48.849Z"
+    },
+    {
+      "id": 35,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Alright. Um, OK. Uh, have you, I'll just ask you a couple more questions about your symptoms. So I know that you've been nauseous and have vomited a couple of times in the past two weeks. And, you have had some cramps in your belly. Have you had any flu like symptoms?",
+      "timestamp": "2025-10-31T10:32:47.303Z"
+    },
+    {
+      "id": 36,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T10:33:35.580Z"
+    },
+    {
+      "id": 37,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Nothing like that?",
+      "timestamp": "2025-10-31T10:34:39.883Z"
+    },
+    {
+      "id": 38,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "I don't think so.",
+      "timestamp": "2025-10-31T10:36:03.135Z"
+    },
+    {
+      "id": 39,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Any headaches?",
+      "timestamp": "2025-10-31T10:37:56.956Z"
+    },
+    {
+      "id": 40,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh no.",
+      "timestamp": "2025-10-31T10:38:48.751Z"
+    },
+    {
+      "id": 41,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Any fevers?",
+      "timestamp": "2025-10-31T10:39:23.792Z"
+    },
+    {
+      "id": 42,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T10:40:45.528Z"
+    },
+    {
+      "id": 43,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Muscle aches?",
+      "timestamp": "2025-10-31T10:41:25.142Z"
+    },
+    {
+      "id": 44,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh no.",
+      "timestamp": "2025-10-31T10:42:50.324Z"
+    },
+    {
+      "id": 45,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, um, have you, have you had a cough at all?",
+      "timestamp": "2025-10-31T10:44:31.301Z"
+    },
+    {
+      "id": 46,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh no.",
+      "timestamp": "2025-10-31T10:45:54.000Z"
+    },
+    {
+      "id": 47,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, and have you noticed any blood in your stools?",
+      "timestamp": "2025-10-31T10:47:29.117Z"
+    },
+    {
+      "id": 48,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T10:48:06.532Z"
+    },
+    {
+      "id": 49,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Have you, you haven't had any palpitations or chest pain or anything of that sort?",
+      "timestamp": "2025-10-31T10:49:08.033Z"
+    },
+    {
+      "id": 50,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T10:50:19.802Z"
+    },
+    {
+      "id": 51,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Alright um can you tell me about your past medical history, any medical issues medical conditions that you have?",
+      "timestamp": "2025-10-31T10:51:08.716Z"
+    },
+    {
+      "id": 52,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh, nothing, nothing really.",
+      "timestamp": "2025-10-31T10:52:25.262Z"
+    },
+    {
+      "id": 53,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK. Have you, um, been taking any medications?",
+      "timestamp": "2025-10-31T10:54:16.772Z"
+    },
+    {
+      "id": 54,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No, I mean, I've been taking like like I've been chewing like those ginger things that are supposed to help with nausea, but they weren't really helpful.",
+      "timestamp": "2025-10-31T10:55:03.426Z"
+    },
+    {
+      "id": 55,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "I see. Any allergies?",
+      "timestamp": "2025-10-31T10:56:08.327Z"
+    },
+    {
+      "id": 56,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "So just like nickel, like in jewelry, if I wear not real jewellery, it'll give me a rash, but it's not food or like or medications or anything.",
+      "timestamp": "2025-10-31T10:57:57.817Z"
+    },
+    {
+      "id": 57,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Um, and, uh, a couple of questions about your social history. Who do you currently live with?",
+      "timestamp": "2025-10-31T10:59:09.467Z"
+    },
+    {
+      "id": 58,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Um, like I I just I live with one roommate.",
+      "timestamp": "2025-10-31T10:59:40.680Z"
+    },
+    {
+      "id": 59,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Um and, do you currently smoke?",
+      "timestamp": "2025-10-31T11:00:52.799Z"
+    },
+    {
+      "id": 60,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-10-31T11:01:59.103Z"
+    },
+    {
+      "id": 61,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Alright, you don't smoke, OK. Have you, do you consume alcohol?",
+      "timestamp": "2025-10-31T11:03:34.343Z"
+    },
+    {
+      "id": 62,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh, no, very rarely because I always get a headache.",
+      "timestamp": "2025-10-31T11:04:22.780Z"
+    },
+    {
+      "id": 63,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, when was the last drink that you had?",
+      "timestamp": "2025-10-31T11:05:20.936Z"
+    },
+    {
+      "id": 64,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Oh gosh, like like a month ago probably.",
+      "timestamp": "2025-10-31T11:06:26.281Z"
+    },
+    {
+      "id": 65,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "OK, um, and you consume any illicit drugs?",
+      "timestamp": "2025-10-31T11:07:50.052Z"
+    },
+    {
+      "id": 66,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "No, no.",
+      "timestamp": "2025-10-31T11:08:30.479Z"
+    },
+    {
+      "id": 67,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Alright, are you currently sexually active?",
+      "timestamp": "2025-10-31T11:09:02.441Z"
+    },
+    {
+      "id": 68,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Yeah just like with my boyfriend.",
+      "timestamp": "2025-10-31T11:09:45.363Z"
+    },
+    {
+      "id": 69,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "And do you use protection while having sex?",
+      "timestamp": "2025-10-31T11:10:24.681Z"
+    },
+    {
+      "id": 70,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Yeah, we we just use condoms. I used to be on birth control but it always made me feel like like kind of sick so I don't use that anymore.",
+      "timestamp": "2025-10-31T11:11:40.817Z"
+    },
+    {
+      "id": 71,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Mhm, I see, OK. Uh and um, let's see. Family history. Do you do you have any medical conditions that run in your family?",
+      "timestamp": "2025-10-31T11:13:08.999Z"
+    },
+    {
+      "id": 72,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "Uh, like I don't, I don't think so. I guess my dad my dad has like high blood pressure, yeah, I don't think there's anything else.",
+      "timestamp": "2025-10-31T11:14:03.996Z"
+    },
+    {
+      "id": 73,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "Alright, alright, well, thank you so much for spending time with me today. I think I have gathered all the information that I would have liked. I will go talk to my attending, we'll come back and maybe ask a couple more questions and then share the plan with you.",
+      "timestamp": "2025-10-31T11:15:00.934Z"
+    },
+    {
+      "id": 74,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "patient",
+      "body": "OK, thank you.",
+      "timestamp": "2025-10-31T11:16:15.823Z"
+    },
+    {
+      "id": 75,
+      "transcriptId": "b4dda34d-ee75-4d5d-b598-2f2ae76f375c",
+      "role": "doctor",
+      "body": "You're welcome.",
+      "timestamp": "2025-10-31T11:16:56.756Z"
+    }
+  ],
+  "519bfd80-7a5a-458f-8c6e-7ea0900fdf42": [
+    {
+      "id": 1,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "Would you mind by starting with what brought you in today?",
+      "timestamp": "2025-11-05T12:11:41.206Z"
+    },
+    {
+      "id": 2,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah, so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself and he's been having this stomach ache. Uh, so it started around like I would say 3 days ago and then he's also having vomiting for the last two days, he's vomited in total six times over the last two days and then yesterday he also developed a fever as well. I managed to measure it and it was 38.3 degrees Celsius.",
+      "timestamp": "2025-11-05T12:12:38.567Z"
+    },
+    {
+      "id": 3,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, I see. So I just so that I understand the timeline, so he started to have abdominal pain about 3 days ago, started with having vomiting and diarrhea two days ago and you checked his temperature, he had a fever as of yesterday?",
+      "timestamp": "2025-11-05T12:14:11.284Z"
+    },
+    {
+      "id": 4,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah.",
+      "timestamp": "2025-11-05T12:15:44.266Z"
+    },
+    {
+      "id": 5,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and uh, was there anything that that he ate that was different over over these last few days?",
+      "timestamp": "2025-11-05T12:16:57.652Z"
+    },
+    {
+      "id": 6,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, we've been strictly home food during like a pandemic like no, no real changes.",
+      "timestamp": "2025-11-05T12:17:37.425Z"
+    },
+    {
+      "id": 7,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and what's his kind of behavior been like over these last couple of days?",
+      "timestamp": "2025-11-05T12:18:19.873Z"
+    },
+    {
+      "id": 8,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah, so at first with the stomach pain he was a bit just irritable and just not himself, but especially yesterday with the fever just been very quiet and just kind of sleeping pretty much the whole day.",
+      "timestamp": "2025-11-05T12:19:04.697Z"
+    },
+    {
+      "id": 9,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, I see and uh, could you describe the vomit?",
+      "timestamp": "2025-11-05T12:20:50.042Z"
+    },
+    {
+      "id": 10,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yes, so vomit like, it started two days ago. The first day it was just like he puked up the things that he had eaten, but yesterday it was it was mainly just like uh just yellowish material, I couldn't really tell if it was food or not.",
+      "timestamp": "2025-11-05T12:22:33.122Z"
+    },
+    {
+      "id": 11,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, have you noticed any bile or blood in the vomit?",
+      "timestamp": "2025-11-05T12:23:08.870Z"
+    },
+    {
+      "id": 12,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh no I didn't notice any blood and I didn't notice any green material. It was mainly just like like normal vomit, like yellowish color.",
+      "timestamp": "2025-11-05T12:24:40.935Z"
+    },
+    {
+      "id": 13,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, I see and, has the what was the vomiting triggered by anything that you're aware of, like eating or drinking?",
+      "timestamp": "2025-11-05T12:26:26.139Z"
+    },
+    {
+      "id": 14,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uhm? Yeah, two days ago it was it was after after lunch when he first vomited. But after that it's just been kind of random.",
+      "timestamp": "2025-11-05T12:28:17.284Z"
+    },
+    {
+      "id": 15,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "I see OK, and, uh, and with regards to his diarrhea, has there been any any blood or or any color changes?",
+      "timestamp": "2025-11-05T12:29:50.900Z"
+    },
+    {
+      "id": 16,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no, I didn't notice any blood at all. It's definitely just very very watery and he's had to go probably even just in the last day, probably around like six or seven times.",
+      "timestamp": "2025-11-05T12:30:30.935Z"
+    },
+    {
+      "id": 17,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, um, and he's vomited how many times?",
+      "timestamp": "2025-11-05T12:31:42.583Z"
+    },
+    {
+      "id": 18,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "So in total I can count 6 times.",
+      "timestamp": "2025-11-05T12:32:21.169Z"
+    },
+    {
+      "id": 19,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and, has he been complaining of any headaches at all?",
+      "timestamp": "2025-11-05T12:34:04.958Z"
+    },
+    {
+      "id": 20,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, not that I know.",
+      "timestamp": "2025-11-05T12:35:47.843Z"
+    },
+    {
+      "id": 21,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "No. OK, and how about any ear pain or or eye pain?",
+      "timestamp": "2025-11-05T12:36:20.467Z"
+    },
+    {
+      "id": 22,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, not that he's mentioned to me.",
+      "timestamp": "2025-11-05T12:37:00.826Z"
+    },
+    {
+      "id": 23,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and any eye redness?",
+      "timestamp": "2025-11-05T12:37:40.402Z"
+    },
+    {
+      "id": 24,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Nope.",
+      "timestamp": "2025-11-05T12:39:37.349Z"
+    },
+    {
+      "id": 25,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and as he had a runny nose?",
+      "timestamp": "2025-11-05T12:40:32.801Z"
+    },
+    {
+      "id": 26,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, not really.",
+      "timestamp": "2025-11-05T12:41:43.512Z"
+    },
+    {
+      "id": 27,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK and has he had a sore throat or any pain with swallowing?",
+      "timestamp": "2025-11-05T12:42:30.314Z"
+    },
+    {
+      "id": 28,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-11-05T12:43:53.473Z"
+    },
+    {
+      "id": 29,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, have you had any loss of taste or loss of smell?",
+      "timestamp": "2025-11-05T12:45:16.358Z"
+    },
+    {
+      "id": 30,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh no, not that he has mentioned to me now.",
+      "timestamp": "2025-11-05T12:46:50.256Z"
+    },
+    {
+      "id": 31,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and has he had a cough?",
+      "timestamp": "2025-11-05T12:48:44.296Z"
+    },
+    {
+      "id": 32,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh, no, not really.",
+      "timestamp": "2025-11-05T12:49:46.911Z"
+    },
+    {
+      "id": 33,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and how about any shortness of breath or wheezing?",
+      "timestamp": "2025-11-05T12:51:01.582Z"
+    },
+    {
+      "id": 34,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-11-05T12:51:51.943Z"
+    },
+    {
+      "id": 35,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and has he had any any pain anywhere? Any chest pain?",
+      "timestamp": "2025-11-05T12:52:26.218Z"
+    },
+    {
+      "id": 36,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Um, he did, he did point to his stomach like it seems like he was having with all the vomiting like, he was having some stomach pain as well.",
+      "timestamp": "2025-11-05T12:53:23.985Z"
+    },
+    {
+      "id": 37,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, is there any specific location that that he's feeling the pain?",
+      "timestamp": "2025-11-05T12:55:12.028Z"
+    },
+    {
+      "id": 38,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Well, it's hard to say. He was just pointing at the center of his belly like, I don't know if it's like, I tried pressing on it and he didn't feel any pain then, but I think it's just kind of all over his stomach.",
+      "timestamp": "2025-11-05T12:56:12.020Z"
+    },
+    {
+      "id": 39,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and has he had any urinary problems like painful voiding or been peeing more often?",
+      "timestamp": "2025-11-05T12:57:57.297Z"
+    },
+    {
+      "id": 40,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, that's been OK.",
+      "timestamp": "2025-11-05T12:59:13.407Z"
+    },
+    {
+      "id": 41,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "Have you noticed any rashes or skin changes?",
+      "timestamp": "2025-11-05T13:01:08.834Z"
+    },
+    {
+      "id": 42,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh, no, not not really, no.",
+      "timestamp": "2025-11-05T13:02:42.422Z"
+    },
+    {
+      "id": 43,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK. And has he had any muscle aches or uh, or joint pains that that he's mentioned?",
+      "timestamp": "2025-11-05T13:03:14.468Z"
+    },
+    {
+      "id": 44,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no he hasn't mentioned anything like that.",
+      "timestamp": "2025-11-05T13:05:04.103Z"
+    },
+    {
+      "id": 45,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and he's had a fever, has he had the chills?",
+      "timestamp": "2025-11-05T13:05:52.807Z"
+    },
+    {
+      "id": 46,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah, so that's that's what I, that prompted me to take his temperature yesterday around the afternoon, like we had to wrap him up with like more than two blankets and he was still feeling cold so, yeah, definitely was having chills.",
+      "timestamp": "2025-11-05T13:07:01.863Z"
+    },
+    {
+      "id": 47,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and and has there been any concerns with his growth, either weight or or height?",
+      "timestamp": "2025-11-05T13:08:03.538Z"
+    },
+    {
+      "id": 48,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "So he's been going along the charts pretty well, like no concerns during his growth. Otherwise, he's a very healthy child.",
+      "timestamp": "2025-11-05T13:09:32.082Z"
+    },
+    {
+      "id": 49,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, so no medical diagnosis previously?",
+      "timestamp": "2025-11-05T13:11:30.299Z"
+    },
+    {
+      "id": 50,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No nothing like that.",
+      "timestamp": "2025-11-05T13:12:33.740Z"
+    },
+    {
+      "id": 51,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and uh, yeah, is he meeting all developmental milestones OK? Like gross motor, fine motor, doing well at school?",
+      "timestamp": "2025-11-05T13:14:19.340Z"
+    },
+    {
+      "id": 52,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah yeah, he didn't have any issues with walking, running, he's pretty social with all his peers. He's doing well at school, no complaints.",
+      "timestamp": "2025-11-05T13:15:32.289Z"
+    },
+    {
+      "id": 53,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, excellent and you know, no medical conditions, but has there been any reasons for being in the hospital before?",
+      "timestamp": "2025-11-05T13:17:03.429Z"
+    },
+    {
+      "id": 54,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, not at all. We, yeah, we haven't really gone to the doctor with him after like all those vaccinations that he had to do, so he's been good.",
+      "timestamp": "2025-11-05T13:17:37.615Z"
+    },
+    {
+      "id": 55,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, great, so immunizations are up to date?",
+      "timestamp": "2025-11-05T13:19:12.990Z"
+    },
+    {
+      "id": 56,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah, immunizations all up to date.",
+      "timestamp": "2025-11-05T13:19:52.709Z"
+    },
+    {
+      "id": 57,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "Excellent and does he have any allergies?",
+      "timestamp": "2025-11-05T13:20:48.633Z"
+    },
+    {
+      "id": 58,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh, no, uh, not not anything that we know of yet.",
+      "timestamp": "2025-11-05T13:22:17.882Z"
+    },
+    {
+      "id": 59,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and I just wanted to ask about his birth history. Were there any complications throughout throughout pregnancy, either mom being sick or having any any issues herself?",
+      "timestamp": "2025-11-05T13:23:34.870Z"
+    },
+    {
+      "id": 60,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, so it was a normal vaginal delivery, uh no issues, uh he was born at 39 weeks, didn't need to stay in the hospital at all. Yeah, it was a pretty smooth pregnancy compared to some of the other ones.",
+      "timestamp": "2025-11-05T13:24:22.341Z"
+    },
+    {
+      "id": 61,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, oh, that's that's great. Do you remember the Apgar score or his birth weight?",
+      "timestamp": "2025-11-05T13:25:46.962Z"
+    },
+    {
+      "id": 62,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uhm, I don't exactly remember his Apgar scores, I think they were like just just they they were normal like there was nothing concerning about them, and birth weight I think he was probably around 3 kilograms.",
+      "timestamp": "2025-11-05T13:27:42.819Z"
+    },
+    {
+      "id": 63,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, great so, yeah healthy birth weight at term it sounds like. And so, healthy, does he take any medications regularly?",
+      "timestamp": "2025-11-05T13:29:26.997Z"
+    },
+    {
+      "id": 64,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no medications.",
+      "timestamp": "2025-11-05T13:30:19.396Z"
+    },
+    {
+      "id": 65,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and could you tell me about who is living with currently and then who's looking after him?",
+      "timestamp": "2025-11-05T13:32:06.589Z"
+    },
+    {
+      "id": 66,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Yeah, so he's living with myself, his mother and, and then my husband, and he has two older siblings. One is a boy, seven years old, and another one like a 10 year old girl.",
+      "timestamp": "2025-11-05T13:33:57.806Z"
+    },
+    {
+      "id": 67,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and has anybody in the house been sick?",
+      "timestamp": "2025-11-05T13:34:32.243Z"
+    },
+    {
+      "id": 68,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh no, no one has been sick recently, however he does, they did let them go back into school at one point, so I don't know, I don't know, so that was just last week, so I don't know if he caught something from school.",
+      "timestamp": "2025-11-05T13:35:50.313Z"
+    },
+    {
+      "id": 69,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, but nobody that you know that's had similar symptoms?",
+      "timestamp": "2025-11-05T13:37:36.904Z"
+    },
+    {
+      "id": 70,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-11-05T13:38:18.989Z"
+    },
+    {
+      "id": 71,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and have you traveled anywhere?",
+      "timestamp": "2025-11-05T13:39:21.570Z"
+    },
+    {
+      "id": 72,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, we've been, we've been at home.",
+      "timestamp": "2025-11-05T13:40:54.920Z"
+    },
+    {
+      "id": 73,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, uh, and then you know recent changes to anything in the diet you've mentioned?",
+      "timestamp": "2025-11-05T13:41:47.464Z"
+    },
+    {
+      "id": 74,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, that's been fine.",
+      "timestamp": "2025-11-05T13:42:38.597Z"
+    },
+    {
+      "id": 75,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, and any concerns for safety in the home, whether physical or or verbal abuse?",
+      "timestamp": "2025-11-05T13:44:18.616Z"
+    },
+    {
+      "id": 76,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no concerns like that.",
+      "timestamp": "2025-11-05T13:45:41.234Z"
+    },
+    {
+      "id": 77,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, yeah a question that we have to ask everybody and is there any smoking in the home?",
+      "timestamp": "2025-11-05T13:47:29.593Z"
+    },
+    {
+      "id": 78,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no, we don't smoke.",
+      "timestamp": "2025-11-05T13:49:22.534Z"
+    },
+    {
+      "id": 79,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, great then, are there any pets?",
+      "timestamp": "2025-11-05T13:50:09.801Z"
+    },
+    {
+      "id": 80,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Nope, no pets.",
+      "timestamp": "2025-11-05T13:51:52.114Z"
+    },
+    {
+      "id": 81,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "Alright, and uh and in the family, has there been anybody who's had any heart problems or any lung problems?",
+      "timestamp": "2025-11-05T13:52:30.101Z"
+    },
+    {
+      "id": 82,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh, we are getting the 10 year old tested for just uh, asthma.",
+      "timestamp": "2025-11-05T13:53:13.154Z"
+    },
+    {
+      "id": 83,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK.",
+      "timestamp": "2025-11-05T13:55:11.545Z"
+    },
+    {
+      "id": 84,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "But nothing diagnosed yet, no.",
+      "timestamp": "2025-11-05T13:55:43.507Z"
+    },
+    {
+      "id": 85,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, anybody in the family have any congenital diseases or any genetic diseases?",
+      "timestamp": "2025-11-05T13:56:56.401Z"
+    },
+    {
+      "id": 86,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, not that I know of.",
+      "timestamp": "2025-11-05T13:57:56.324Z"
+    },
+    {
+      "id": 87,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, uh, anybody in the family have celiac disease or Crohn's disease?",
+      "timestamp": "2025-11-05T13:58:38.804Z"
+    },
+    {
+      "id": 88,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "No, no, uh no history of any kind of bowel diseases.",
+      "timestamp": "2025-11-05T13:59:51.777Z"
+    },
+    {
+      "id": 89,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "OK, so I think that's, uh, everything I want I wanted to ask about today. Uh, was there anything that maybe I I forgot to ask or or that I missed that you wanted to tell me?",
+      "timestamp": "2025-11-05T14:00:38.787Z"
+    },
+    {
+      "id": 90,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Uh, yeah, no it's, it's also just like I was just reading up like, can it be like I don't know if it can be COVID as well, if it can, it can do this as well?",
+      "timestamp": "2025-11-05T14:02:04.034Z"
+    },
+    {
+      "id": 91,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "doctor",
+      "body": "It is possible. Uh, it's uh, especially with nonspecific symptoms, COVID can cause a variety of different presentations, and there for some people it can be more gastrointestinal issues like like your son has with vomiting and diarrhea and belly pain. But it also could be well, uh, another type of gastrointestinal virus itself or or a viral illness like the common cold, which can also end up causing symptoms like this as well. So we will, I will go ahead and do a COVID test today, along with some other blood work. And maybe increase the hydration as well, because it sounds like he has lost a lot of fluid over these last couple of days. So we will check electrolytes and go from there on the test results.",
+      "timestamp": "2025-11-05T14:03:28.898Z"
+    },
+    {
+      "id": 92,
+      "transcriptId": "519bfd80-7a5a-458f-8c6e-7ea0900fdf42",
+      "role": "patient",
+      "body": "Alright, sounds good. Thank you so much.",
+      "timestamp": "2025-11-05T14:04:23.597Z"
+    }
+  ],
+  "b62cefb0-147e-4ce0-abf2-1956386b3002": [
+    {
+      "id": 1,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "And what brings you to the emergency department today?",
+      "timestamp": "2025-11-11T01:04:48.265Z"
+    },
+    {
+      "id": 2,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Low back pain.",
+      "timestamp": "2025-11-11T01:06:15.285Z"
+    },
+    {
+      "id": 3,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and where exactly is uh is the back pain?",
+      "timestamp": "2025-11-11T01:07:07.542Z"
+    },
+    {
+      "id": 4,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "So the pain's just right in the in the lower back.",
+      "timestamp": "2025-11-11T01:07:48.060Z"
+    },
+    {
+      "id": 5,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "Just in the lower back, OK. And when did this pain start?",
+      "timestamp": "2025-11-11T01:09:10.488Z"
+    },
+    {
+      "id": 6,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "It started yesterday, I was unloading groceries from my pickup truck when it suddenly started.",
+      "timestamp": "2025-11-11T01:11:09.980Z"
+    },
+    {
+      "id": 7,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, so, and, did you kind of make any kind of movement? Or did you pick up something really heavy?",
+      "timestamp": "2025-11-11T01:12:36.872Z"
+    },
+    {
+      "id": 8,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "I'm not sure. I just noticed the pain after um after that.",
+      "timestamp": "2025-11-11T01:13:48.520Z"
+    },
+    {
+      "id": 9,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and what kind of pain are you experiencing? Is it like a dull cramping pain or is it more like a sharp or stabbing pain?",
+      "timestamp": "2025-11-11T01:15:29.272Z"
+    },
+    {
+      "id": 10,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "It feels like it's stabbing just right in my lower back.",
+      "timestamp": "2025-11-11T01:16:33.215Z"
+    },
+    {
+      "id": 11,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. And, um, on a scale of 1 to 10, uh 1 being like the least pain that you felt in your life, 10 being the worst, how much would you rate this pain?",
+      "timestamp": "2025-11-11T01:17:51.935Z"
+    },
+    {
+      "id": 12,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "If I'm sitting, uh completely still like like I am right now, it's a 2 out of 10.",
+      "timestamp": "2025-11-11T01:19:26.367Z"
+    },
+    {
+      "id": 13,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Um and when does it get worse?",
+      "timestamp": "2025-11-11T01:20:04.728Z"
+    },
+    {
+      "id": 14,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh anytime I I move or bend my back or uh even cough it it worsens the pain significantly.",
+      "timestamp": "2025-11-11T01:21:53.472Z"
+    },
+    {
+      "id": 15,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and has this pain changed at all since yesterday?",
+      "timestamp": "2025-11-11T01:22:31.783Z"
+    },
+    {
+      "id": 16,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "No, it's been this same awful pain this whole time.",
+      "timestamp": "2025-11-11T01:23:09.619Z"
+    },
+    {
+      "id": 17,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK and have have you ever had this kind of pain before?",
+      "timestamp": "2025-11-11T01:24:35.540Z"
+    },
+    {
+      "id": 18,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "I've had back pain uh over the years, but nothing like this before.",
+      "timestamp": "2025-11-11T01:26:26.770Z"
+    },
+    {
+      "id": 19,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. And does it, does the pain go anywhere or does it just stay in the lower back?",
+      "timestamp": "2025-11-11T01:27:43.932Z"
+    },
+    {
+      "id": 20,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "I also feel the pain uh into my right leg.",
+      "timestamp": "2025-11-11T01:28:25.288Z"
+    },
+    {
+      "id": 21,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and is it the same kind of aching or like stabbing pain that goes into your right leg? Or is it uh just like an aching pain?",
+      "timestamp": "2025-11-11T01:29:59.660Z"
+    },
+    {
+      "id": 22,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh it's it's a, uh, an aching pain.",
+      "timestamp": "2025-11-11T01:31:35.903Z"
+    },
+    {
+      "id": 23,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. And do you have any other symptoms besides the pain? Like are you experiencing any kind of weakness or any kind of, any other changes in your health?",
+      "timestamp": "2025-11-11T01:33:10.936Z"
+    },
+    {
+      "id": 24,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no it's just the uh the low back pain.",
+      "timestamp": "2025-11-11T01:34:19.655Z"
+    },
+    {
+      "id": 25,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and have you ever uh experienced any kind of trauma to your back? Like something has hit you or you've fall down, anything like that?",
+      "timestamp": "2025-11-11T01:35:59.380Z"
+    },
+    {
+      "id": 26,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "No, I can't remember any injuries like that in the past.",
+      "timestamp": "2025-11-11T01:37:54.110Z"
+    },
+    {
+      "id": 27,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any uh fevers or chills or night sweats?",
+      "timestamp": "2025-11-11T01:39:21.232Z"
+    },
+    {
+      "id": 28,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Um no fever, uh no chills, no night sweats.",
+      "timestamp": "2025-11-11T01:40:26.200Z"
+    },
+    {
+      "id": 29,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any uh symptoms of feeling very tired, fatigued, anything like that?",
+      "timestamp": "2025-11-11T01:42:17.456Z"
+    },
+    {
+      "id": 30,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no, I've been OK recently.",
+      "timestamp": "2025-11-11T01:43:00.912Z"
+    },
+    {
+      "id": 31,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Any changes to your skin at all? Uh I mean, any rashes?",
+      "timestamp": "2025-11-11T01:44:51.865Z"
+    },
+    {
+      "id": 32,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "No.",
+      "timestamp": "2025-11-11T01:46:46.506Z"
+    },
+    {
+      "id": 33,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any pain in your joints at all?",
+      "timestamp": "2025-11-11T01:47:57.016Z"
+    },
+    {
+      "id": 34,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh just the back pain.",
+      "timestamp": "2025-11-11T01:48:48.826Z"
+    },
+    {
+      "id": 35,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Uh any new coughs or any um symptoms and runny nose or anything like that?",
+      "timestamp": "2025-11-11T01:50:26.031Z"
+    },
+    {
+      "id": 36,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no.",
+      "timestamp": "2025-11-11T01:51:21.053Z"
+    },
+    {
+      "id": 37,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "Any changes in your um bowel movements at all like diarrhea, constipation or anything?",
+      "timestamp": "2025-11-11T01:51:59.462Z"
+    },
+    {
+      "id": 38,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Nothing like that, been regular.",
+      "timestamp": "2025-11-11T01:52:41.708Z"
+    },
+    {
+      "id": 39,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, how about, uh, any urinary problems?",
+      "timestamp": "2025-11-11T01:54:19.128Z"
+    },
+    {
+      "id": 40,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no, nothing to report there.",
+      "timestamp": "2025-11-11T01:56:05.573Z"
+    },
+    {
+      "id": 41,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and how has your appetite been?",
+      "timestamp": "2025-11-11T01:57:15.838Z"
+    },
+    {
+      "id": 42,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh appetite's been normal.",
+      "timestamp": "2025-11-11T01:58:27.047Z"
+    },
+    {
+      "id": 43,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "Any significant weight loss or weight gain recently?",
+      "timestamp": "2025-11-11T01:59:21.534Z"
+    },
+    {
+      "id": 44,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "No, the weight's been about the same.",
+      "timestamp": "2025-11-11T02:01:01.180Z"
+    },
+    {
+      "id": 45,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any recent infections that you know of?",
+      "timestamp": "2025-11-11T02:02:50.508Z"
+    },
+    {
+      "id": 46,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "No, I've been feeling well otherwise.",
+      "timestamp": "2025-11-11T02:03:24.741Z"
+    },
+    {
+      "id": 47,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Any uh tingling sensation or numbness uh in your back or lower limbs, in your legs?",
+      "timestamp": "2025-11-11T02:04:59.321Z"
+    },
+    {
+      "id": 48,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no numbness or tingling.",
+      "timestamp": "2025-11-11T02:06:40.919Z"
+    },
+    {
+      "id": 49,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Any muscle weakness at all?",
+      "timestamp": "2025-11-11T02:07:58.868Z"
+    },
+    {
+      "id": 50,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no muscle weakness.",
+      "timestamp": "2025-11-11T02:09:07.183Z"
+    },
+    {
+      "id": 51,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, have you been uh having any uh kind of erectile dysfunction?",
+      "timestamp": "2025-11-11T02:10:19.177Z"
+    },
+    {
+      "id": 52,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no concerns with uh erectile dysfunction.",
+      "timestamp": "2025-11-11T02:11:53.039Z"
+    },
+    {
+      "id": 53,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and any issues with uh incontinence, like uh having accidents at all, at night or during the day?",
+      "timestamp": "2025-11-11T02:13:29.040Z"
+    },
+    {
+      "id": 54,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no, I haven't had any problems with bowel or bladder incontinence.",
+      "timestamp": "2025-11-11T02:14:31.543Z"
+    },
+    {
+      "id": 55,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, alright, and in terms of your past medical history, have you have you been diagnosed with any conditions like high blood pressure, diabetes?",
+      "timestamp": "2025-11-11T02:15:36.273Z"
+    },
+    {
+      "id": 56,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh type 2 diabetes.",
+      "timestamp": "2025-11-11T02:16:20.036Z"
+    },
+    {
+      "id": 57,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and do you take any medications for it?",
+      "timestamp": "2025-11-11T02:17:13.755Z"
+    },
+    {
+      "id": 58,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh I, um insulin for diabetes.",
+      "timestamp": "2025-11-11T02:18:39.092Z"
+    },
+    {
+      "id": 59,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and any other medications at all?",
+      "timestamp": "2025-11-11T02:19:39.834Z"
+    },
+    {
+      "id": 60,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh just been taking Tylenol for the the back pain.",
+      "timestamp": "2025-11-11T02:21:06.556Z"
+    },
+    {
+      "id": 61,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "And has that worked for you at all? Or has it not made a difference?",
+      "timestamp": "2025-11-11T02:22:42.045Z"
+    },
+    {
+      "id": 62,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh maybe it's taking the edge off a little bit, but it hasn't done too much uh to help the pain.",
+      "timestamp": "2025-11-11T02:24:02.526Z"
+    },
+    {
+      "id": 63,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any allergies?",
+      "timestamp": "2025-11-11T02:25:44.310Z"
+    },
+    {
+      "id": 64,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh nope.",
+      "timestamp": "2025-11-11T02:27:40.393Z"
+    },
+    {
+      "id": 65,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Any previous surgeries?",
+      "timestamp": "2025-11-11T02:28:39.285Z"
+    },
+    {
+      "id": 66,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh I had hemorrhoids removed three years ago.",
+      "timestamp": "2025-11-11T02:29:36.909Z"
+    },
+    {
+      "id": 67,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Um any hospitalizations before?",
+      "timestamp": "2025-11-11T02:30:34.428Z"
+    },
+    {
+      "id": 68,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no, it was just day surgery,",
+      "timestamp": "2025-11-11T02:31:11.287Z"
+    },
+    {
+      "id": 69,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, any family history of any um conditions uh or like any cancers?",
+      "timestamp": "2025-11-11T02:33:05.402Z"
+    },
+    {
+      "id": 70,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh my father had prostate cancer.",
+      "timestamp": "2025-11-11T02:35:03.506Z"
+    },
+    {
+      "id": 71,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. And currently right now, uh do you work?",
+      "timestamp": "2025-11-11T02:36:23.122Z"
+    },
+    {
+      "id": 72,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh I'm a retired school teacher.",
+      "timestamp": "2025-11-11T02:38:22.806Z"
+    },
+    {
+      "id": 73,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and where do you live?",
+      "timestamp": "2025-11-11T02:39:26.332Z"
+    },
+    {
+      "id": 74,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "I live alone um in a in a house uh not too far from here, actually.",
+      "timestamp": "2025-11-11T02:40:37.694Z"
+    },
+    {
+      "id": 75,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. And do you do you drink at all?",
+      "timestamp": "2025-11-11T02:41:23.658Z"
+    },
+    {
+      "id": 76,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Um occasionally uh maybe I'll have a glass of red wine on the weekend or something like that, but uh not too often.",
+      "timestamp": "2025-11-11T02:43:15.499Z"
+    },
+    {
+      "id": 77,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and do you smoke?",
+      "timestamp": "2025-11-11T02:44:49.642Z"
+    },
+    {
+      "id": 78,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh, I've smoked um yeah, I smoke a pack of cigarettes uh per day.",
+      "timestamp": "2025-11-11T02:46:11.858Z"
+    },
+    {
+      "id": 79,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and for how long have you smoked uh cigarettes for?",
+      "timestamp": "2025-11-11T02:46:55.313Z"
+    },
+    {
+      "id": 80,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh about 40 years.",
+      "timestamp": "2025-11-11T02:48:32.119Z"
+    },
+    {
+      "id": 81,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "40 years, OK. And, uh, do you use any kind of recreational drugs?",
+      "timestamp": "2025-11-11T02:50:25.943Z"
+    },
+    {
+      "id": 82,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh never.",
+      "timestamp": "2025-11-11T02:52:20.455Z"
+    },
+    {
+      "id": 83,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and how is your diet like on like a regular basis?",
+      "timestamp": "2025-11-11T02:53:03.586Z"
+    },
+    {
+      "id": 84,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "I feel like it's uh pretty normal, mostly home cooked meals with some variety, vegetable, vegetables, other meats, and fish. I would say it's pretty balanced.",
+      "timestamp": "2025-11-11T02:55:03.326Z"
+    },
+    {
+      "id": 85,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, alright, I just have a few more questions for you. Um are you currently sexually active?",
+      "timestamp": "2025-11-11T02:56:37.601Z"
+    },
+    {
+      "id": 86,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Yes, I am.",
+      "timestamp": "2025-11-11T02:58:19.339Z"
+    },
+    {
+      "id": 87,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK and who are you sexually active with, any new partners at all?",
+      "timestamp": "2025-11-11T02:59:57.501Z"
+    },
+    {
+      "id": 88,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh no new partners, um just my girlfriend, uh.",
+      "timestamp": "2025-11-11T03:01:30.142Z"
+    },
+    {
+      "id": 89,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "And, uh, how many, I'm sorry, go ahead.",
+      "timestamp": "2025-11-11T03:02:56.400Z"
+    },
+    {
+      "id": 90,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Um just my my girlfriend recently.",
+      "timestamp": "2025-11-11T03:04:38.321Z"
+    },
+    {
+      "id": 91,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and have you been sexually active with more than one partner in the past, past year?",
+      "timestamp": "2025-11-11T03:06:04.518Z"
+    },
+    {
+      "id": 92,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Uh yes, I have, um um two women over the past year.",
+      "timestamp": "2025-11-11T03:07:45.503Z"
+    },
+    {
+      "id": 93,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK, and um do you use any kind of protection?",
+      "timestamp": "2025-11-11T03:08:36.904Z"
+    },
+    {
+      "id": 94,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "patient",
+      "body": "Yes, always use uh condoms.",
+      "timestamp": "2025-11-11T03:09:55.787Z"
+    },
+    {
+      "id": 95,
+      "transcriptId": "b62cefb0-147e-4ce0-abf2-1956386b3002",
+      "role": "doctor",
+      "body": "OK. Alright, so now I'm just going to get the patient's vitals.",
+      "timestamp": "2025-11-11T03:11:06.589Z"
     }
   ]
 }
