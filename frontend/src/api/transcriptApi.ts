@@ -6,11 +6,12 @@ import type {
   ClinicalTrialSearchResponse,
 } from "../types/api";
 
-const API_BASE_URL = "http://localhost:3000/api";
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:3001";
 
 // Create axios instance
 const apiClient = axios.create({
-  baseURL: API_BASE_URL,
+  baseURL: `${API_BASE_URL}/api`,
 });
 
 // Fetch all transcripts
